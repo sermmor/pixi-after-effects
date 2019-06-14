@@ -41,6 +41,7 @@
     "babelify": "^7.3.0",
     "browserify": "^14.5.0",
     "copy-webpack-plugin": "^4.5.2",
+    "core-js": "^2.5.7",
     "dat.gui": "^0.6.1",
     "eslint": "^4.14.0",
     "eslint-config-airbnb": "^17.0.0",

@@ -1,3 +1,4 @@
+import 'core-js/modules/es7.object.values';
 import * as PIXI from 'pixi.js';
 import { ElementFinder } from './finder';
 import { ElementPlayer } from './player';
